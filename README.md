@@ -34,4 +34,8 @@ $ cordova platforms ls
 Building and Simulating the app:
 ================================
 
+Simulate in an emulator:
 $ cordova emulate ios
+
+To simulate in a browser, run this from the gymtracker/www/ directory:
+$ python -m SimpleHTTPServer

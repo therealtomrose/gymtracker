@@ -7,10 +7,10 @@ An app to track my workouts at the gym.
 requirements
 ============
 
-# node.js (google for the binary)
-# git (google for the binary)
-# cordova: (sudo npm install -g cordova)
-# ios-sim: (npm install -g ios-sim)
+* node.js (google for the binary)
+* git (google for the binary)
+* cordova: (sudo npm install -g cordova)
+* ios-sim: (npm install -g ios-sim)
 
 
 cloning the repo
